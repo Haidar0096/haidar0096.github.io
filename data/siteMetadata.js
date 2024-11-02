@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://haidar0096.github.io/personal-blog/',
   siteRepo: 'https://github.com/Haidar0096/personal-blog',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.webp`,
+  siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/social-banner.webp`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'contact.hmehsen@gmail.com',

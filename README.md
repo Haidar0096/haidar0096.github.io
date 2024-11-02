@@ -1,3 +1,3 @@
-![tailwind-nextjs-banner](/public/static/images/logo.webp)
+![tailwind-nextjs-banner](/public/static/images/logo.jpg)
 
 # Haidar Mehsen's Blog
