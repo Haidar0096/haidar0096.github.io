@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="mr-3">
             <img
-              src="personal-blog/static/images/logo.jpg"
+              src="/static/images/logo.jpg"
               style={{ maxWidth: '50px', borderRadius: '50%' }}
             />
           </div>
