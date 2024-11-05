@@ -55,7 +55,7 @@ const siteMetadata = {
   comments: {
     provider: 'giscus',
     giscusConfig: {
-      repo: 'Haidar0096/personal-blog',
+      repo: 'Haidar0096/haidar0096.github.io',
       repositoryId: 'R_kgDOM5LOTg',
       category: 'Announcements',
       categoryId: 'DIC_kwDOM5LOTs4CjHWw',
